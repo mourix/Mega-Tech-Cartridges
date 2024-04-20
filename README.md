@@ -42,8 +42,14 @@ This is the original cart for SMS based games with a single 1 or 2 Megabit ROM.
 
 <img src="https://github.com/mourix/Mega-Tech-Cartridges/blob/9d65a29b1b896c6a0aec2a9f6fe7d80724a76bec/171-5783%20-%20Master%20System/171-5783_Redux/171-5783_Redux_3D.png" width="500">
 
+## Mega-Tech - Mega Drive Converter
+
+This allows original Sega Mega Drive carts to be played on your Mega-Tech.
+
+<img src="https://github.com/mourix/Mega-Tech-Cartridges/blob/07a9f1c8c08252d68696b7d9c46cd9a38ecbab17/Mega-Tech%20-%20Mega%20Drive%20Converter/MT_MD_Converter_front.png" width="500">
+
 ## Manufacturing Notes
 The gerber zip files in each project folder can be uploaded directly to most suppliers.
 ### JLCPCB
 * PCB specifications: standard 2 layer PCB, 1.6mm thickness. Select "Gold Fingers" and "30°finger chamfered".
-* Redux PCBs: select "Remove Order Number - Specify a location".
+* Redux/Converter PCBs: select "Remove Order Number - Specify a location".
