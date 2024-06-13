@@ -53,3 +53,6 @@ The gerber zip files in each project folder can be uploaded directly to most sup
 ### JLCPCB
 * PCB specifications: standard 2 layer PCB, 1.6mm thickness. Select "Gold Fingers" and "30°finger chamfered".
 * Redux/Converter PCBs: select "Remove Order Number - Specify a location".
+
+### Custom Mega-Tech Menu Script
+My script to make custom menu ROMS uses your legally obtained MT tetris menu ROM to generate new titles and text.
